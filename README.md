@@ -1,2 +1,10 @@
 # van-emde-boas-python
-van Emde Boas tree in Python with random testing
+vEB tree realization with simple random testing.
+
+All the standard operations are supported. No comments or optimizations.
+
+## Run tests
+
+```bash
+pytest ./tests/
+```
